@@ -1,1 +1,1 @@
-# Englih dictionary built using python
+# An English dictionary built using python
